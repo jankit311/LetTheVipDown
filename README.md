@@ -12,4 +12,4 @@ is the foremost feature of app as this reduces your efforts of going to prof's D
 You can keep an eye on their working remotely.
 
 ## Link to the related project:-
-### [Get Connect](https://github.com/SaurabhVj/GetConnect)
+### [Get Connect](https://github.com/jankit311/GetConnect)
